@@ -14,8 +14,8 @@ String tsData;
 
 
 /*  Kablosuz  Bağlantı  Bilgileri */
-#define WLAN_SSID "yguver--2G"       
-#define WLAN_PASSWORD "enka1240" 
+#define WLAN_SSID " wifi adresinizin adı "       
+#define WLAN_PASSWORD " wifi şifreniz " 
         
 /*  ThingSpeak  Kurulumu */
 unsigned long channelID = 1255636;
